@@ -1,4 +1,4 @@
-# aSynth2OSC-OSC-Chataigne-Module
+# aSynth2OSC-Chataigne-Module
 Chataigne module to retrceive parameters or control aSynth2OSC hardware with OSC protocol.  
 
 To know more, please consult the website :
