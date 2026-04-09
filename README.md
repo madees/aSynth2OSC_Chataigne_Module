@@ -1,5 +1,5 @@
 # aSynth2OSC-Chataigne-Module
-Chataigne module to retrceive parameters or control aSynth2OSC hardware with OSC protocol.  
+Chataigne module to receive parameters or control aSynth2OSC Eurorack hardware module with OSC protocol.  
 
 To know more, please consult the website :
 http://mathieu.delquignies.free.fr/asynth2osc_intro.html 
